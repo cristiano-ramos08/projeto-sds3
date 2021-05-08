@@ -18,7 +18,7 @@ const Dashboard = () => {
                     </div>
                     <div className="col-sm-6">
                         <h5 className="text-center text-seondary">Todas vendas</h5>
-                        <DonutChart />s
+                        <DonutChart />
                     </div>
                 </div>
                 <div className="py-3">
