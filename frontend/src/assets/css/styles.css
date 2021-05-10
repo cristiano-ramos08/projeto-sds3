@@ -31,5 +31,14 @@ html, body {
     color: var(--color-primary) !important;
 }
 
+.pagination {
+    position: relative;
+    left: 550px;
+}
+
+.text-primary {
+    position: relative;
+    left: 550px;
+}
 
 
