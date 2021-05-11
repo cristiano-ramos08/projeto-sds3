@@ -21,7 +21,7 @@ const Dashboard = () => {
                         <DonutChart />
                     </div>
                 </div>
-                <div className="py-3">
+                <div className="py-3 text-primary">
                     <h2 className="text-primary">Todas vendas</h2>
                 </div>
 
